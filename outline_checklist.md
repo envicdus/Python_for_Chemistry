@@ -5,8 +5,6 @@
 
 #### Systems of Linear Equations
 - Fundamental concepts of linear systems
-  * Representing chemical equilibria
-  * Reaction stoichiometry calculations
 - Solution methods
   * Gaussian elimination
   * LU decomposition
