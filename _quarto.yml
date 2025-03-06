@@ -1,0 +1,42 @@
+project:
+  type: website
+
+website: 
+  page-navigation: true
+  title: "Python for Computational Chemistry"
+  site-url: "insert site url here" 
+  repo-url: insert github url here
+  repo-actions: [edit, issue]
+
+  page-footer:
+    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+    left: "&copy; Website created by Navi, 2025"
+    
+  sidebar:
+    pinned: true
+    align: center
+    tools: 
+      - icon: github
+        href: https://github.com/openscapes/quarto-website-tutorial
+        text: "Quarto website tutorial"       
+    style: "docked"
+    search: true
+    collapse-level: 1
+    contents:
+      - href: index.qmd
+        text: Welcome
+      - href: outline_checklist.md
+        text: Table of Contents
+      - section: Algebra
+        contents: 
+          - href: _site\Notebooks\01.Linear_Systems_concepts.html
+            text: Algebra
+
+
+
+format:
+  html:
+    theme: cosmo
+    code-copy: true
+    code-overflow: wrap
+    toc: true

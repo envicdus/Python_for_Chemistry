@@ -1,0 +1,97 @@
+---
+title: "Python_for_Chemistry"
+---
+
+## Welcome!
+
+I created this site out of my passion for computational chemistry and my desire to refine my skills in the field. Here, I explore how Python can be used to solve complex chemical problems, from molecular modeling to quantum chemistry and data analysis. Whether you're a student, researcher, or fellow enthusiast, you'll find tutorials, projects, and insights that showcase the power of Python in chemistry. 
+
+## Is this for me?
+
+This site is designed for those who already have a basic understanding of Python and want to apply it to computational chemistry. If you're familiar with Python’s syntax, data structures, and basic programming concepts, you'll be able to follow along and deepen your skills in scientific computing. Whether you're a chemist looking to integrate coding into your research or a programmer eager to explore chemical simulations, this site will provide valuable insights and hands-on applications. 
+
+
+## Why Python?
+
+Python is a powerful and versatile programming language that has become a standard tool in computational chemistry. Here’s why Python is ideal for this field:
+
+- Ease of Use – Python’s simple and readable syntax makes it accessible for chemists and researchers without extensive programming backgrounds.
+- Extensive Libraries – With libraries like NumPy, Pandas, RDKit, ASE, Psi4, and LAMMPS, Python provides robust tools for molecular modeling, quantum chemistry, and data analysis.
+- Automation & Efficiency – Python allows you to automate repetitive calculations, data processing, and simulations, saving time and reducing errors.
+- Visualization Capabilities – With Matplotlib, Seaborn, and Py3Dmol, Python enables clear and effective visualization of molecular structures and simulation results.
+- Interoperability – Python seamlessly integrates with other computational chemistry software, allowing you to interface with LAMMPS, ORCA, and Psi4 for advanced simulations.
+- Community & Open Source – A large, active community of scientists and developers continuously improves Python’s chemistry-related tools, making it a cost-effective and evolving solution.
+
+## What Software Will You Use?
+
+To follow along with the tutorials and projects, you'll need:
+
+- Python (Latest Version) – The core programming language for all computations.
+- Jupyter Notebook – An interactive coding environment for writing and running Python scripts.
+- NumPy, Pandas, Sympy, Scipy – Essential libraries for numerical computing and data manipulation.
+- Matplotlib, Seaborn, and Plotly – Tools for visualizing chemical data and simulation results.
+- RDKit – A powerful toolkit for cheminformatics and molecular modeling.
+- ASE (Atomic Simulation Environment) – For working with atomic structures and simulations.
+- Psi4 / ORCA – Quantum chemistry packages for molecular calculations.
+- LAMMPS (Large-scale Atomic/Molecular Massively Parallel Simulator) – For performing molecular dynamics simulations.
+
+## What You Will Learn?
+
+This site is designed to help you apply Python to computational chemistry through hands-on tutorials and projects. Along the way, you'll also deepen your understanding of key theoretical concepts by applying them in real-world scenarios. By following along, you will:
+
+- Apply Theoretical Concepts in Practice – Reinforce your understanding of computational chemistry principles, such as molecular mechanics, electronic structure theory, and thermodynamics, by implementing them in Python-based simulations and analyses.
+- Work with Molecular Structures – Learn how to manipulate and analyze molecular structures using RDKit and ASE.
+- Perform Quantum Chemistry Calculations – Use Psi4 and ORCA to run molecular simulations and analyze energy states.
+- Conduct Molecular Dynamics Simulations – Explore LAMMPS to simulate atomic and molecular interactions over time.
+- Automate Chemical Data Analysis – Utilize NumPy and Pandas for handling large datasets and extracting meaningful insights.
+- Visualize Chemical Data & Structures – Create informative plots and molecular visualizations with Matplotlib, Seaborn, and Py3Dmol.
+- Optimize Workflows – Write Python scripts to automate common computational chemistry tasks, improving efficiency and reproducibility.
+- Integrate with External Chemistry Software – Learn how to use Python to interface with external tools for advanced chemical modeling and simulations.
+
+
+By the end of this journey, you’ll not only gain technical skills in Python for computational chemistry but also develop a deeper intuition for the theoretical foundations that drive these simulations.
+
+
+## How Do I Get Started?
+Getting started with Python for computational chemistry is easy! Follow these steps begin your learning journey.  
+
+
+### Beginner Level
+1. **Python Basics**: Ensure you're comfortable with Python fundamentals
+2. **Chemistry Concepts**: Review relevant chemistry principles
+3. **Math Concepts**: Review relevant mathematical principles
+4. **Data Handling**: Learn NumPy, Pandas for scientific data manipulation
+5. **Visualization**: Master Matplotlib for plotting results
+
+### Intermediate Level
+1. **Molecular Manipulation**: Dive deeper into RDKit
+2. **Quantum Chemistry Basics**: Understand computational methods
+3. **Integration with Quantum Chemistry Software**: Learn to interface with programs like Gaussian, GAMESS, or Psi4
+
+### Advanced Level
+1. **Custom Method Development**: Create your own computational routines
+2. **Machine Learning for Chemistry**: Apply ML techniques to chemical problems
+3. **High-Performance Computing**: Scale your calculations to larger systems
+
+## Recommended Resources
+
+### Books
+- "Python for Computational Science and Engineering" by Hans Fangohr
+- "Computational Chemistry Using Python" by Shiv Upadhyay
+- "Introduction to Computational Chemistry" by Frank Jensen
+
+### Online Courses
+- edX: "Principles of Chemical Science"
+- [Python For Everybody by Charles Severance](https://www.py4e.com/)
+
+
+### Communities
+- [Chemistry Stack Exchange](https://chemistry.stackexchange.com/)
+
+
+## Next Steps
+
+Once you've set up your environment and run your first script, explore my tutorials section to learn more about computational chemistry.
+
+Ready to start your computational chemistry journey with Python? Let's dive in!
+
