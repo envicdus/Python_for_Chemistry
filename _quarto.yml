@@ -29,14 +29,18 @@ website:
         text: Table of Contents
       - section: Algebra
         contents: 
-          - href: _site\Notebooks\01.Linear_Systems_concepts.html
-            text: Algebra
+          - href: Notebooks\01.Linear_Systems_concepts.ipynb
+            text: Linear Systems Concepts
+          - href: Notebooks\2.Computational_approaches_to_linear_systems.ipynb
+            text: Computational approaches to Linear Systems       
 
 
 
 format:
   html:
-    theme: cosmo
+    theme:
+      light: flatly
+      dark: darkly
     code-copy: true
     code-overflow: wrap
     toc: true

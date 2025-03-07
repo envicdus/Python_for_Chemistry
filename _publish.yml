@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 453c68b9-8157-49ab-b7e7-06e9c6fa71ea
+      url: https://envydecimo.quarto.pub/python-for-computational-chemistry
