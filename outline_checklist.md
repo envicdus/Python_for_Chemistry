@@ -11,7 +11,7 @@
   * Solving overdetermined and underdetermined systems
 - Computational approaches
   * NumPy and SciPy linear algebra solvers
-  * Iterative solution techniques
+- Iterative solution techniques
 - Applications in chemical equilibrium modeling
   * Gravimetry
   * Titrimetry
