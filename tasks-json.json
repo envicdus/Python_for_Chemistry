@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Project Setup & Repo Initialization",
+    "status": "✅ Completed",
+    "dateFinished": "2025-03-05"
+  },
+  {
+    "name": "Landing Page Design",
+    "status": "✅ Completed",
+    "dateFinished": "2025-03-07"
+  },
+  {
+    "name": "1. Mathematical Foundations for Computational Chemistry",
+    "status": "🟡 In Progress",
+    "dateFinished": ""
+  },
+  {
+    "name": "2. Introduction to Computational Chemistry with Python",
+    "status": "🔲 Not Started",
+    "dateFinished": ""
+  },
+  {
+    "name": "3. Molecular Representation and Manipulation",
+    "status": "🔲 Not Started",
+    "dateFinished": ""
+  },
+  {
+    "name": "4. Quantum Chemistry Computations",
+    "status": "🔲 Not Started",
+    "dateFinished": ""
+  },
+  {
+    "name": "5. Molecular Dynamics Simulations",
+    "status": "🔲 Not Started",
+    "dateFinished": ""
+  },
+  {
+    "name": "6. Computational Chemistry Data Analysis",
+    "status": "🔲 Not Started",
+    "dateFinished": ""
+  },
+  {
+    "name": "7. Visualization and Advanced Plotting",
+    "status": "🔲 Not Started",
+    "dateFinished": ""
+  },
+  {
+    "name": "8. Practical Project Examples",
+    "status": "🔲 Not Started",
+    "dateFinished": ""
+  },
+  {
+    "name": "9. Performance Optimization and Advanced Topics",
+    "status": "🔲 Not Started",
+    "dateFinished": ""
+  },
+  {
+    "name": "10. Practical Tools and Workflow Integration",
+    "status": "🔲 Not Started",
+    "dateFinished": ""
+  },
+  {
+    "name": "11. Resources and Further Learning",
+    "status": "🔲 Not Started",
+    "dateFinished": ""
+  },
+  {
+    "name": "12. Appendices",
+    "status": "🔲 Not Started",
+    "dateFinished": ""
+  },
+  {
+    "name": "Tutorials & Case Studies",
+    "status": "🔲 Not Started",
+    "dateFinished": ""
+  },
+  {
+    "name": "Testing & Validation",
+    "status": "🔲 Not Started",
+    "dateFinished": ""
+  },
+  {
+    "name": "Documentation & Contribution Guidelines",
+    "status": "🟡 In Progress",
+    "dateFinished": ""
+  },
+  {
+    "name": "Deployment",
+    "status": "🟡 In Progress",
+    "dateFinished": ""
+  }
+]
