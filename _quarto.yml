@@ -31,9 +31,10 @@ website:
         contents: 
           - href: Notebooks\01.Linear_Systems_concepts.ipynb
             text: Linear Systems Concepts
-          - href: Notebooks\2.Computational_approaches_to_linear_systems.ipynb
+          - href: Notebooks\02.Computational_approaches_to_linear_systems.ipynb
             text: Computational approaches to Linear Systems       
-
+          - href: Notebooks\03.Iterative_solution_techniques.ipynb
+            text: Iterative Solution Techniques(Relaxation Methods)
 
 
 format:
