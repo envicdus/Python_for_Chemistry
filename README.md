@@ -52,4 +52,7 @@
 - ✅ Completed Landing Page Design (2025-03-07)
 - ✅ Completed Project Setup & Repo Initialization (2025-03-05)
 - 🟡 Started work on Mathematical Foundations
+    - Linear System Concepts finished(2025-03-12)
+    - Computational approaches to linear systems finished (2025-03-19)
+    - Iterative Solution technique finished (2025-03-26)
 - 🟡 Documentation and deployment in progress
