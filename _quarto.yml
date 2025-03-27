@@ -27,7 +27,7 @@ website:
         text: Welcome
       - href: outline_checklist.md
         text: Table of Contents
-      - section: Algebra
+      - section: Linear Algebra
         contents: 
           - href: Notebooks\01.Linear_Systems_concepts.ipynb
             text: Linear Systems Concepts
@@ -45,3 +45,4 @@ format:
     code-copy: true
     code-overflow: wrap
     toc: true
+    css: style.css

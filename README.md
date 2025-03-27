@@ -55,4 +55,5 @@
     - Linear System Concepts finished(2025-03-12)
     - Computational approaches to linear systems finished (2025-03-19)
     - Iterative Solution technique finished (2025-03-26)
+    - Inserted a topic about vectors and matrices(2025-03-27)
 - 🟡 Documentation and deployment in progress
