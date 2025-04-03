@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Admin/Desktop/personal_projects/Python_for_Chemistry/Notebooks/media/videos/Notebooks/720p30/partial_movie_files/FormulaEmphasis/2016333726_2999438739_223132457.mp4'
+file 'file:C:/Users/Admin/Desktop/personal_projects/Python_for_Chemistry/Notebooks/media/videos/Notebooks/720p30/partial_movie_files/FormulaEmphasis/543634251_974580733_3353570343.mp4'
+file 'file:C:/Users/Admin/Desktop/personal_projects/Python_for_Chemistry/Notebooks/media/videos/Notebooks/720p30/partial_movie_files/FormulaEmphasis/543634251_2688965532_3265531919.mp4'
+file 'file:C:/Users/Admin/Desktop/personal_projects/Python_for_Chemistry/Notebooks/media/videos/Notebooks/720p30/partial_movie_files/FormulaEmphasis/543634251_156391350_4120778526.mp4'
+file 'file:C:/Users/Admin/Desktop/personal_projects/Python_for_Chemistry/Notebooks/media/videos/Notebooks/720p30/partial_movie_files/FormulaEmphasis/543634251_2262035378_4038721741.mp4'
