@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Admin/Desktop/personal_projects/Python_for_Chemistry/Notebooks/media/videos/1080p60/partial_movie_files/ElectricFieldScene3D/3651294744_1243460543_3075213252.mp4'
+file 'file:C:/Users/Admin/Desktop/personal_projects/Python_for_Chemistry/Notebooks/media/videos/1080p60/partial_movie_files/ElectricFieldScene3D/1702735820_2840115676_852525667.mp4'
+file 'file:C:/Users/Admin/Desktop/personal_projects/Python_for_Chemistry/Notebooks/media/videos/1080p60/partial_movie_files/ElectricFieldScene3D/3086596537_2142862449_648544938.mp4'
+file 'file:C:/Users/Admin/Desktop/personal_projects/Python_for_Chemistry/Notebooks/media/videos/1080p60/partial_movie_files/ElectricFieldScene3D/383057166_2840115676_3730837492.mp4'
+file 'file:C:/Users/Admin/Desktop/personal_projects/Python_for_Chemistry/Notebooks/media/videos/1080p60/partial_movie_files/ElectricFieldScene3D/2969915930_2162069083_1650112276.mp4'
+file 'file:C:/Users/Admin/Desktop/personal_projects/Python_for_Chemistry/Notebooks/media/videos/1080p60/partial_movie_files/ElectricFieldScene3D/2969915930_548731573_2751647410.mp4'
+file 'file:C:/Users/Admin/Desktop/personal_projects/Python_for_Chemistry/Notebooks/media/videos/1080p60/partial_movie_files/ElectricFieldScene3D/3675056964_3683879236_1295950419.mp4'
+file 'file:C:/Users/Admin/Desktop/personal_projects/Python_for_Chemistry/Notebooks/media/videos/1080p60/partial_movie_files/ElectricFieldScene3D/3186757349_4256174160_2762096715.mp4'
+file 'file:C:/Users/Admin/Desktop/personal_projects/Python_for_Chemistry/Notebooks/media/videos/1080p60/partial_movie_files/ElectricFieldScene3D/3186757349_2840115676_2624244815.mp4'

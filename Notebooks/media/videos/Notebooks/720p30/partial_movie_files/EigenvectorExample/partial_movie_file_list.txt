@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Admin/Desktop/personal_projects/Python_for_Chemistry/Notebooks/media/videos/Notebooks/720p30/partial_movie_files/EigenvectorExample/2016333726_294388139_223132457.mp4'
+file 'file:C:/Users/Admin/Desktop/personal_projects/Python_for_Chemistry/Notebooks/media/videos/Notebooks/720p30/partial_movie_files/EigenvectorExample/543634251_2360348608_846811782.mp4'
+file 'file:C:/Users/Admin/Desktop/personal_projects/Python_for_Chemistry/Notebooks/media/videos/Notebooks/720p30/partial_movie_files/EigenvectorExample/543634251_2688965532_593109108.mp4'
+file 'file:C:/Users/Admin/Desktop/personal_projects/Python_for_Chemistry/Notebooks/media/videos/Notebooks/720p30/partial_movie_files/EigenvectorExample/543634251_94376382_3407830166.mp4'
+file 'file:C:/Users/Admin/Desktop/personal_projects/Python_for_Chemistry/Notebooks/media/videos/Notebooks/720p30/partial_movie_files/EigenvectorExample/543634251_2688965532_190972210.mp4'
+file 'file:C:/Users/Admin/Desktop/personal_projects/Python_for_Chemistry/Notebooks/media/videos/Notebooks/720p30/partial_movie_files/EigenvectorExample/543634251_1396952362_760670883.mp4'
+file 'file:C:/Users/Admin/Desktop/personal_projects/Python_for_Chemistry/Notebooks/media/videos/Notebooks/720p30/partial_movie_files/EigenvectorExample/543634251_2688965532_1973285992.mp4'

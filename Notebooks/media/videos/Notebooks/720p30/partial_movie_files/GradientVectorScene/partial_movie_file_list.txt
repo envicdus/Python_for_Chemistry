@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Admin/Desktop/personal_projects/Python_for_Chemistry/Notebooks/media/videos/Notebooks/720p30/partial_movie_files/GradientVectorScene/1093988544_3452775132_3409085571.mp4'
+file 'file:C:/Users/Admin/Desktop/personal_projects/Python_for_Chemistry/Notebooks/media/videos/Notebooks/720p30/partial_movie_files/GradientVectorScene/780188398_3646936522_907050113.mp4'
+file 'file:C:/Users/Admin/Desktop/personal_projects/Python_for_Chemistry/Notebooks/media/videos/Notebooks/720p30/partial_movie_files/GradientVectorScene/780188398_1607334031_1125495340.mp4'
+file 'file:C:/Users/Admin/Desktop/personal_projects/Python_for_Chemistry/Notebooks/media/videos/Notebooks/720p30/partial_movie_files/GradientVectorScene/780188398_2230675760_1382591576.mp4'
+file 'file:C:/Users/Admin/Desktop/personal_projects/Python_for_Chemistry/Notebooks/media/videos/Notebooks/720p30/partial_movie_files/GradientVectorScene/780188398_4169559715_1252237496.mp4'
+file 'file:C:/Users/Admin/Desktop/personal_projects/Python_for_Chemistry/Notebooks/media/videos/Notebooks/720p30/partial_movie_files/GradientVectorScene/780188398_3498719862_3087135038.mp4'
+file 'file:C:/Users/Admin/Desktop/personal_projects/Python_for_Chemistry/Notebooks/media/videos/Notebooks/720p30/partial_movie_files/GradientVectorScene/780188398_2230675760_2570965016.mp4'
