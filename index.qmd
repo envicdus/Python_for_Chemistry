@@ -1,5 +1,5 @@
 ---
-title: "Python_for_Chemistry"
+title: "Python for Chemistry"
 ---
 
 ## Welcome!

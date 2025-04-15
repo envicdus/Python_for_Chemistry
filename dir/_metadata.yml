@@ -1,0 +1,11 @@
+format:
+  html:
+    embed-resources: false
+    fig-width: 9
+    fig-height: 6
+    html-math-method:
+        method: mathjax
+        url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+jupyter: python3
+code-fold: true
+code-overflow: wrap

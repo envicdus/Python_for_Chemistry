@@ -1,6 +1,9 @@
 project:
   type: website
 
+metadata-files:
+  - dir\_metadata.yml
+
 website: 
   page-navigation: true
   title: "Python for Computational Chemistry"
@@ -20,7 +23,7 @@ website:
         href: https://github.com/openscapes/quarto-website-tutorial
         text: "Quarto website tutorial"       
     style: "docked"
-    search: true
+    search: false
     collapse-level: 1
     contents:
       - href: index.qmd
@@ -29,20 +32,59 @@ website:
         text: Table of Contents
       - section: Linear Algebra
         contents: 
-          - href: Notebooks\01.Linear_Systems_concepts.ipynb
+          - href: Notebooks\Linear_Algebra\01.Vectors_and_Matrices.ipynb
+            text: Vectors and Matrices
+          - href: Notebooks\Linear_Algebra\02.Linear_Systems_concepts.ipynb
             text: Linear Systems Concepts
-          - href: Notebooks\02.Computational_approaches_to_linear_systems.ipynb
-            text: Computational approaches to Linear Systems       
-          - href: Notebooks\03.Iterative_solution_techniques.ipynb
-            text: Iterative Solution Techniques(Relaxation Methods)
-
+          - href: Notebooks\Linear_Algebra\03.Computational_approaches_to_linear_systems.ipynb
+            text: Computational approaches to Linear Systems
+          - href: Notebooks\Linear_Algebra\04.Iterative_solution_techniques.ipynb
+            text: Iterative Solution Techniques
+          - href: Notebooks\Linear_Algebra\05.Orthogonality.ipynb
+            text: Orthogonality
+          - href: Notebooks\Linear_Algebra\06.Determinants.ipynb
+            text: Determinants
+          - href: Notebooks\Linear_Algebra\07.Eigenvectors_and_Eigenfunctions.ipynb
+            text: Eigenvectors and Eigenfunctions
+      - section: Abstract Algebra
+        contents:
+          - href: Notebooks\Abstract_Algebra\01.Basic_Group_Theory.ipynb
+            text: Basic Group Theory
+          - href: Notebooks\Abstract_Algebra\02.Symmetry_Elements_and_Operations.ipynb
+            text: Symmetry Elements and Operations
+          - href: Notebooks\Abstract_Algebra\03.Point_Group.ipynb
+            text: Point Groups
+          - href: Notebooks\Abstract_Algebra\04.Representation_of_Groups.ipynb
+            text: Representation of Groups
+          - href: Notebooks\Abstract_Algebra\05.Character_Tables_and_Applications.ipynb
+            text: Character Tables and Applications
+          - href: Notebooks\Abstract_Algebra\06.Chemical_Graph_Theory.ipynb
+            text: Chemical Graph Theory
+          - href: Notebooks\Abstract_Algebra\07.Rings.ipynb
+            text: Rings
+          - href: Notebooks\Abstract_Algebra\08.Fields.ipynb
+            text: Fields
+          - href: Notebooks\Abstract_Algebra\09.Galios_Theory.ipynb
+            text: Galios Theory
+      - section: Analytical Chemistry
+        contents:
+          - href: Notebooks\Analytical_Chemistry\01.Data_Preprocessing_and_chemometrics.ipynb
+            text: Data Preprocessing and Chemometrics
+          - href: Notebooks\Analytical_Chemistry\02.Gravimetry.ipynb
+            text: Gravimetry
+          - href: Notebooks\Analytical_Chemistry\03.Titremetry.ipynb
+            text: Titremetry
+          - href: Notebooks\Analytical_Chemistry\04.Electrochemistry.ipynb
+            text: Electrochemistry
+          - href: Notebooks\Analytical_Chemistry\05.Chromatography.ipynb
+            text: Chromatography
+          - href: Notebooks\Analytical_Chemistry\06.UV-Vis_Spectroscopy.ipynb
+            text: UV-Vis Spectroscopy
 
 format:
   html:
     theme:
-      light: flatly
       dark: darkly
     code-copy: true
     code-overflow: wrap
     toc: true
-    css: style.css

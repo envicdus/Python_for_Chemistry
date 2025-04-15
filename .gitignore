@@ -1,6 +1,1 @@
-# misc
-*venv/*
 /.quarto/
-*.html
-_site/
-*.css
